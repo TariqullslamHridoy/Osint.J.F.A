@@ -2,7 +2,7 @@ SHELL := /bin/bash
 
 setup:
 
-	@echo -e "\e[34m####### Setup for Osintgram #######\e[0m"
+	@echo -e "\e[34m####### Setup for Osint.J.F.A #######\e[0m"
 	@[ -d config ] || mkdir config || exit 1
 	@echo -n "{}" > config/settings.json
 	@read -p "Instagram Username: " uservar; \
