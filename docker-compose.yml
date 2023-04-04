@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+ Osint.J.F.A:
+    container_name: Osint.J.F.A
+    build: .
+    volumes:
+      - ./output:/home/Osint.J.F.A/output
