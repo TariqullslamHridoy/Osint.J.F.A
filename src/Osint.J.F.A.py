@@ -20,7 +20,7 @@ from src import printcolors as pc
 from src import config
 
 
-class Osint.J.F.A:
+class Osintgram:
     api = None
     api2 = None
     geolocator = Nominatim(user_agent="http")
