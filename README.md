@@ -61,6 +61,25 @@ Warning: It is advisable to **not** use your own/primary account when using this
     
 
 
-## External library 🔗
+## RAN Osint.J.F.A 🔗
 
-Osint.J.F.A 
+    Navigate to the directory
+   `cd Osint.J.F.A`
+   
+   Create a virtual environment for this project
+   `python3 -m venv venv`
+   
+   Load the virtual environment
+   `source venv/bin/activate`
+   
+   Run
+   `python3 main.py <target username>`
+   
+   
+   
+   
+   
+   
+   
+   
+   
